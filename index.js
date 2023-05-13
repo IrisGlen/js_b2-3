@@ -1,4 +1,4 @@
-// bai 1: Tinh luong 
+// Bài 1: Tinh luong 
 // input : nhập số ngày làm = a (kiểu dữ kiệu số)
 // luong 1 ngày = 100.000
 // xử lý: tiền lương lấy giá trị a * lương 1 ngày
